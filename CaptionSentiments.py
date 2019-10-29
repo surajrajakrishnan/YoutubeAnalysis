@@ -3,7 +3,7 @@ import pandas as pd
 import requests
 from bs4 import BeautifulSoup
 
-DEVELOPER_KEY = "AIzaSyCdNFNHQSIahCwhEOqeGXw7A-aJN3YjWnE"
+DEVELOPER_KEY = ""
 YOUTUBE_API_SERVICE_NAME = "youtube"
 YOUTUBE_API_VERSION = "v3"
 
